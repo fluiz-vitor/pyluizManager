@@ -7,23 +7,23 @@
       "width": 1920,
       "height": 1080,
       "name": "Tibia - 1",
-      "command": "obs, pyluiz",
-      "usb_port": ""
+      "command": "",
+      "usb_port": "/dev/ttyACM0"
     },
     "2": {
       "display_num": 2,
       "width": 1920,
       "height": 1080,
       "name": "Tibia - 2",
-      "command": "obs, pyluiz",
-      "usb_port": "/dev/ttyACM0"
+      "command": "",
+      "usb_port": ""
     },
     "3": {
       "display_num": 3,
       "width": 1920,
       "height": 1080,
       "name": "Tibia - 3",
-      "command": "obs, pyluiz",
+      "command": "",
       "usb_port": ""
     },
     "4": {
@@ -31,7 +31,7 @@
       "width": 1280,
       "height": 720,
       "name": "Tibia - 4",
-      "command": "obs",
+      "command": "",
       "usb_port": ""
     }
   }
